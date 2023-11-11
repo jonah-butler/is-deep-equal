@@ -1,0 +1,24 @@
+{
+  "name": "@jayimbee/is-deep-equal",
+  "version": "1.0.1",
+  "description": "a utility to check equality between objects",
+  "main": "dist/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "deep equality",
+    "recursion"
+  ],
+  "author": "jonah butler <jonahbutler@jonahbutler.dev>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonah-butler/is-deep-equal"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.2",
+    "typescript": "^5.2.2"
+  }
+}
